@@ -19,4 +19,4 @@ clear dashboards, reliable pipelines, and solutions that people actually use.
 
 
 ## 📫 Get in touch
-[Portfolio](https://veranoscience.github.io/portfolio/) · [LinkedIn]([link](https://www.linkedin.com/in/ksenia-dautel-36082975/)) · email ksenia.marina@gmail.com
+[Portfolio](https://veranoscience.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ksenia-dautel-36082975/) · [email] (ksenia.marina@gmail.com)
